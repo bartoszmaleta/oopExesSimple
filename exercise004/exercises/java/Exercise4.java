@@ -1,6 +1,6 @@
 package exercise004.exercises.java;
 
-public class Exercise3 {
+public class Exercise4 {
     public static void main(String[] args) {
         DataObject[] arrayOfDataObjects = new DataObject[3];
         DataObject firstDataObject = new DataObject();
